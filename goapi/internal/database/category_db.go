@@ -2,7 +2,6 @@ package database
 
 import (
 	"database/sql"
-
 	"github.com/LazaroQueiroz/imersao-full-stack/goapi/internal/entity"
 )
 
