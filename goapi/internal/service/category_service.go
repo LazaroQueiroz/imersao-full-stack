@@ -1,5 +1,4 @@
 package service
 
-import "github.com/devfullcycle/imersao17/goapi/internal/database"
+import "github.com/LazaroQueiroz/imersao-full-stack/goapi/internal/database"
 
-type Cate
